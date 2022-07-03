@@ -1,0 +1,34 @@
+body{
+    font-family: lato;
+}
+.container-principal{
+    border: 1px solid red;
+}
+.navbar-light .navbar-brand{
+    color: black;
+    font-weight: 900;
+}
+
+.navbar-light .navbar-nav .nav-link{
+    color:#5CA720;
+}
+
+.bg-light{
+    background: #F9F9F9;
+}
+
+footer{
+    background: #F9F9F9;
+}
+
+.item{
+    height: 134px;
+}
+
+.item2{
+    height: 100px;
+}
+
+hr{
+    background: #A5A1A1;
+}
